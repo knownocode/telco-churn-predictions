@@ -5,6 +5,10 @@ model that predicts customer churn for a telecommunications company
 using the Marimo framework. The model is trained on the well known
 IBM Telco Customer Churn dataset.
 
+## Authors
+
+jaydesl, knownocode
+
 
 ## The Model
 
