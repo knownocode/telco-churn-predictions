@@ -7,7 +7,7 @@ IBM Telco Customer Churn dataset.
 
 ## Authors
 
-jaydesl, knownocode
+jaydesl (Jay), knownocode (Jay)
 
 
 ## The Model
